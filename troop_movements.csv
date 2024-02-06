@@ -1,0 +1,1001 @@
+timestamp,unit_id,unit_type,empire_or_resistance,location_x,location_y,destination_x,destination_y,homeworld
+2024-02-06 16:45:34,1,tie_fighter,resistance,6,9,6,7,Chandrila
+2024-02-06 16:45:33,2,stormtrooper,resistance,8,2,3,6,Ryloth
+2024-02-06 16:45:32,3,tie_fighter,resistance,2,6,8,7,Rodia
+2024-02-06 16:45:31,4,tie_fighter,resistance,5,3,2,9,Chandrila
+2024-02-06 16:45:30,5,x-wing,empire,8,4,10,3,Aleen Minor
+2024-02-06 16:45:29,6,resistance_soldier,empire,3,10,9,7,Rodia
+2024-02-06 16:45:28,7,resistance_soldier,resistance,10,2,8,9,Chandrila
+2024-02-06 16:45:27,8,at-at,empire,3,8,10,6,Muunilinst
+2024-02-06 16:45:26,9,unknown,resistance,7,2,7,5,Alderaan
+2024-02-06 16:45:25,10,resistance_soldier,resistance,9,3,5,2,Ryloth
+2024-02-06 16:45:24,11,resistance_soldier,empire,9,1,7,6,Tholoth
+2024-02-06 16:45:23,12,unknown,empire,1,10,6,7,Rodia
+2024-02-06 16:45:22,13,tie_silencer,empire,2,7,8,10,Toydaria
+2024-02-06 16:45:21,14,stormtrooper,empire,9,9,9,4,Naboo
+2024-02-06 16:45:20,15,at-st,empire,6,7,5,7,Haruun Kal
+2024-02-06 16:45:19,16,at-st,empire,3,1,9,4,Socorro
+2024-02-06 16:45:18,17,unknown,empire,8,5,7,2,Eriadu
+2024-02-06 16:45:17,18,stormtrooper,resistance,6,6,8,1,Naboo
+2024-02-06 16:45:16,19,at-at,empire,1,3,4,10,Concord Dawn
+2024-02-06 16:45:15,20,x-wing,empire,2,7,3,3,Tatooine
+2024-02-06 16:45:14,21,stormtrooper,resistance,1,2,5,4,Dathomir
+2024-02-06 16:45:13,22,x-wing,empire,5,2,3,7,Glee Anselm
+2024-02-06 16:45:12,23,resistance_soldier,resistance,5,3,9,8,Troiken
+2024-02-06 16:45:11,24,resistance_soldier,resistance,5,10,7,6,Ojom
+2024-02-06 16:45:10,25,resistance_soldier,resistance,6,4,3,10,Chandrila
+2024-02-06 16:45:09,26,resistance_soldier,resistance,5,5,9,10,Shili
+2024-02-06 16:45:08,27,resistance_soldier,empire,1,4,8,1,Umbara
+2024-02-06 16:45:07,28,stormtrooper,empire,9,6,6,4,Champala
+2024-02-06 16:45:06,29,tie_fighter,empire,3,8,10,1,Tund
+2024-02-06 16:45:05,30,tie_fighter,empire,2,9,8,1,Eriadu
+2024-02-06 16:45:04,31,tie_silencer,empire,2,8,10,3,Dorin
+2024-02-06 16:45:03,32,x-wing,empire,10,7,6,10,Serenno
+2024-02-06 16:45:02,33,x-wing,resistance,2,10,2,2,Sullust
+2024-02-06 16:45:01,34,tie_silencer,resistance,8,4,6,5,Socorro
+2024-02-06 16:45:00,35,unknown,resistance,10,4,8,10,Cerea
+2024-02-06 16:44:59,36,unknown,empire,5,9,7,3,Trandosha
+2024-02-06 16:44:58,37,resistance_soldier,empire,8,7,1,10,Corellia
+2024-02-06 16:44:57,38,at-at,empire,1,6,5,7,Shili
+2024-02-06 16:44:56,39,tie_fighter,empire,4,9,1,10,Dagobah
+2024-02-06 16:44:55,40,x-wing,resistance,7,4,6,9,Glee Anselm
+2024-02-06 16:44:54,41,tie_silencer,resistance,1,4,2,1,Ryloth
+2024-02-06 16:44:53,42,tie_fighter,empire,2,1,3,6,Malastare
+2024-02-06 16:44:52,43,at-at,empire,2,2,1,9,Eriadu
+2024-02-06 16:44:51,44,resistance_soldier,resistance,6,9,1,1,Dathomir
+2024-02-06 16:44:50,45,unknown,empire,4,8,7,4,Kalee
+2024-02-06 16:44:49,46,at-st,resistance,4,5,3,2,Ryloth
+2024-02-06 16:44:48,47,resistance_soldier,empire,4,4,9,2,Kalee
+2024-02-06 16:44:47,48,x-wing,empire,3,5,1,3,Malastare
+2024-02-06 16:44:46,49,stormtrooper,resistance,1,7,3,10,Iridonia
+2024-02-06 16:44:45,50,at-at,resistance,5,6,3,1,Ojom
+2024-02-06 16:44:44,51,tie_silencer,resistance,8,7,9,1,Dathomir
+2024-02-06 16:44:43,52,stormtrooper,resistance,3,6,4,7,Zolan
+2024-02-06 16:44:42,53,x-wing,empire,3,1,7,9,Aleen Minor
+2024-02-06 16:44:41,54,tie_silencer,resistance,6,2,5,2,Shili
+2024-02-06 16:44:40,55,x-wing,resistance,2,1,3,10,Iridonia
+2024-02-06 16:44:39,56,at-st,empire,4,2,3,2,Muunilinst
+2024-02-06 16:44:38,57,unknown,empire,8,2,6,7,Kalee
+2024-02-06 16:44:37,58,resistance_soldier,empire,10,1,2,2,Naboo
+2024-02-06 16:44:36,59,stormtrooper,resistance,9,7,9,3,Bestine IV
+2024-02-06 16:44:35,60,tie_silencer,resistance,3,4,8,1,Trandosha
+2024-02-06 16:44:34,61,tie_fighter,empire,3,3,1,5,Aleen Minor
+2024-02-06 16:44:33,62,at-at,resistance,4,8,9,6,Tatooine
+2024-02-06 16:44:32,63,tie_silencer,empire,6,4,6,2,Mirial
+2024-02-06 16:44:31,64,x-wing,resistance,8,9,1,2,Champala
+2024-02-06 16:44:30,65,unknown,resistance,5,3,5,6,Serenno
+2024-02-06 16:44:29,66,at-at,empire,7,2,1,8,Trandosha
+2024-02-06 16:44:28,67,tie_silencer,resistance,6,4,7,6,Socorro
+2024-02-06 16:44:27,68,tie_fighter,resistance,2,1,1,5,Troiken
+2024-02-06 16:44:26,69,tie_silencer,empire,7,4,4,6,Kalee
+2024-02-06 16:44:25,70,resistance_soldier,empire,6,10,7,8,Champala
+2024-02-06 16:44:24,71,tie_fighter,resistance,7,5,8,8,Haruun Kal
+2024-02-06 16:44:23,72,at-at,empire,8,10,9,9,Stewjon
+2024-02-06 16:44:22,73,at-at,resistance,8,6,5,6,Ojom
+2024-02-06 16:44:21,74,x-wing,resistance,10,7,2,5,Troiken
+2024-02-06 16:44:20,75,resistance_soldier,resistance,4,7,9,4,Champala
+2024-02-06 16:44:19,76,tie_fighter,empire,4,2,8,9,Quermia
+2024-02-06 16:44:18,77,unknown,empire,6,7,1,10,Chandrila
+2024-02-06 16:44:17,78,tie_silencer,resistance,8,6,7,10,Chandrila
+2024-02-06 16:44:16,79,tie_fighter,resistance,3,4,7,9,Iktotch
+2024-02-06 16:44:15,80,resistance_soldier,empire,1,7,7,10,Muunilinst
+2024-02-06 16:44:14,81,tie_fighter,resistance,6,3,7,6,Champala
+2024-02-06 16:44:13,82,tie_fighter,empire,4,6,8,5,Muunilinst
+2024-02-06 16:44:12,83,tie_fighter,empire,2,4,1,3,Socorro
+2024-02-06 16:44:11,84,unknown,resistance,9,9,6,7,Tholoth
+2024-02-06 16:44:10,85,tie_silencer,resistance,6,9,6,2,Toydaria
+2024-02-06 16:44:09,86,at-st,empire,10,3,1,1,Muunilinst
+2024-02-06 16:44:08,87,at-at,empire,3,5,3,5,Haruun Kal
+2024-02-06 16:44:07,88,resistance_soldier,empire,9,2,9,4,Muunilinst
+2024-02-06 16:44:06,89,resistance_soldier,empire,5,3,10,7,Muunilinst
+2024-02-06 16:44:05,90,tie_fighter,empire,4,2,8,6,Haruun Kal
+2024-02-06 16:44:04,91,stormtrooper,resistance,3,8,4,6,Haruun Kal
+2024-02-06 16:44:03,92,at-st,empire,5,8,3,5,Malastare
+2024-02-06 16:44:02,93,unknown,resistance,4,9,1,6,Mirial
+2024-02-06 16:44:01,94,unknown,resistance,7,8,1,8,Cerea
+2024-02-06 16:44:00,95,tie_fighter,resistance,1,5,9,10,Troiken
+2024-02-06 16:43:59,96,at-st,empire,4,2,8,5,Tholoth
+2024-02-06 16:43:58,97,resistance_soldier,resistance,6,3,3,1,Haruun Kal
+2024-02-06 16:43:57,98,stormtrooper,resistance,4,5,4,5,Troiken
+2024-02-06 16:43:56,99,unknown,empire,3,8,2,7,Champala
+2024-02-06 16:43:55,100,resistance_soldier,resistance,5,8,5,2,Iridonia
+2024-02-06 16:43:54,101,tie_fighter,empire,5,9,10,6,Serenno
+2024-02-06 16:43:53,102,at-st,empire,1,6,9,8,Naboo
+2024-02-06 16:43:52,103,at-at,resistance,5,7,9,8,Troiken
+2024-02-06 16:43:51,104,at-st,empire,9,4,1,7,Iktotch
+2024-02-06 16:43:50,105,unknown,empire,6,7,1,7,Chandrila
+2024-02-06 16:43:49,106,x-wing,resistance,4,4,1,3,Cerea
+2024-02-06 16:43:48,107,tie_fighter,empire,8,6,3,6,Glee Anselm
+2024-02-06 16:43:47,108,at-st,resistance,7,9,9,1,Iridonia
+2024-02-06 16:43:46,109,at-at,resistance,10,4,6,8,Kalee
+2024-02-06 16:43:45,110,tie_fighter,resistance,3,2,9,3,Ryloth
+2024-02-06 16:43:44,111,unknown,resistance,4,2,5,1,Sullust
+2024-02-06 16:43:43,112,tie_fighter,resistance,1,1,4,7,Dathomir
+2024-02-06 16:43:42,113,x-wing,empire,8,1,4,2,Kalee
+2024-02-06 16:43:41,114,x-wing,resistance,10,5,1,3,Troiken
+2024-02-06 16:43:40,115,resistance_soldier,resistance,9,1,9,6,Sullust
+2024-02-06 16:43:39,116,at-at,empire,9,5,6,10,Vulpter
+2024-02-06 16:43:38,117,resistance_soldier,resistance,10,10,5,6,Ojom
+2024-02-06 16:43:37,118,x-wing,resistance,2,1,9,6,Champala
+2024-02-06 16:43:36,119,tie_silencer,resistance,1,4,7,4,Troiken
+2024-02-06 16:43:35,120,tie_silencer,empire,7,8,10,2,Muunilinst
+2024-02-06 16:43:34,121,tie_silencer,empire,9,2,5,10,Concord Dawn
+2024-02-06 16:43:33,122,tie_silencer,resistance,3,8,3,9,Concord Dawn
+2024-02-06 16:43:32,123,at-st,resistance,4,9,10,3,Serenno
+2024-02-06 16:43:31,124,tie_fighter,empire,7,1,5,8,Socorro
+2024-02-06 16:43:30,125,resistance_soldier,empire,8,5,2,8,Muunilinst
+2024-02-06 16:43:29,126,x-wing,resistance,9,5,9,5,Shili
+2024-02-06 16:43:28,127,x-wing,empire,5,1,10,5,Tholoth
+2024-02-06 16:43:27,128,unknown,resistance,5,2,1,8,Iridonia
+2024-02-06 16:43:26,129,tie_fighter,empire,2,3,10,3,Iridonia
+2024-02-06 16:43:25,130,at-at,resistance,3,5,6,7,Bestine IV
+2024-02-06 16:43:24,131,stormtrooper,empire,9,3,5,10,Troiken
+2024-02-06 16:43:23,132,tie_fighter,resistance,9,2,2,8,Ryloth
+2024-02-06 16:43:22,133,x-wing,empire,6,5,1,4,Mirial
+2024-02-06 16:43:21,134,tie_fighter,empire,9,2,7,4,Ojom
+2024-02-06 16:43:20,135,x-wing,empire,7,4,5,8,Serenno
+2024-02-06 16:43:19,136,tie_fighter,resistance,10,4,2,4,Chandrila
+2024-02-06 16:43:18,137,resistance_soldier,empire,8,1,9,3,Dagobah
+2024-02-06 16:43:17,138,x-wing,empire,6,4,4,1,Umbara
+2024-02-06 16:43:16,139,at-st,empire,10,5,9,7,Toydaria
+2024-02-06 16:43:15,140,unknown,empire,4,3,5,2,Tund
+2024-02-06 16:43:14,141,unknown,empire,3,10,4,7,Toydaria
+2024-02-06 16:43:13,142,at-st,resistance,10,9,1,8,Vulpter
+2024-02-06 16:43:12,143,x-wing,empire,3,9,4,3,Stewjon
+2024-02-06 16:43:11,144,at-at,empire,7,9,1,9,Tund
+2024-02-06 16:43:10,145,at-st,resistance,5,5,5,3,Vulpter
+2024-02-06 16:43:09,146,resistance_soldier,empire,9,6,6,10,Concord Dawn
+2024-02-06 16:43:08,147,tie_silencer,resistance,2,2,8,10,Umbara
+2024-02-06 16:43:07,148,tie_fighter,resistance,10,1,2,1,Alderaan
+2024-02-06 16:43:06,149,at-at,empire,7,8,9,8,Kalee
+2024-02-06 16:43:05,150,at-st,empire,10,9,8,5,Vulpter
+2024-02-06 16:43:04,151,tie_silencer,empire,5,5,1,3,Aleen Minor
+2024-02-06 16:43:03,152,resistance_soldier,resistance,10,10,1,6,Rodia
+2024-02-06 16:43:02,153,resistance_soldier,empire,2,6,9,3,Concord Dawn
+2024-02-06 16:43:01,154,at-st,resistance,3,4,8,4,Alderaan
+2024-02-06 16:43:00,155,unknown,resistance,4,8,6,7,Skako
+2024-02-06 16:42:59,156,tie_silencer,resistance,1,3,4,2,Concord Dawn
+2024-02-06 16:42:58,157,tie_fighter,resistance,7,6,8,8,Sullust
+2024-02-06 16:42:57,158,resistance_soldier,empire,6,3,5,9,Ojom
+2024-02-06 16:42:56,159,at-at,empire,7,10,2,1,Tund
+2024-02-06 16:42:55,160,at-st,empire,2,4,10,4,Tatooine
+2024-02-06 16:42:54,161,at-st,empire,1,3,1,6,Serenno
+2024-02-06 16:42:53,162,at-at,resistance,4,7,4,4,Shili
+2024-02-06 16:42:52,163,tie_silencer,resistance,3,9,3,10,Sullust
+2024-02-06 16:42:51,164,tie_fighter,empire,2,5,10,8,Mirial
+2024-02-06 16:42:50,165,tie_fighter,empire,3,9,10,8,Trandosha
+2024-02-06 16:42:49,166,unknown,resistance,8,2,2,9,Vulpter
+2024-02-06 16:42:48,167,tie_fighter,empire,4,7,9,5,Tund
+2024-02-06 16:42:47,168,tie_fighter,resistance,6,3,6,6,Iridonia
+2024-02-06 16:42:46,169,stormtrooper,empire,10,10,4,10,Aleen Minor
+2024-02-06 16:42:45,170,at-at,empire,4,8,1,10,Ryloth
+2024-02-06 16:42:44,171,at-at,empire,6,6,10,3,Aleen Minor
+2024-02-06 16:42:43,172,tie_fighter,resistance,8,5,1,9,Eriadu
+2024-02-06 16:42:42,173,resistance_soldier,resistance,7,10,6,5,Ojom
+2024-02-06 16:42:41,174,x-wing,resistance,5,5,3,7,Ojom
+2024-02-06 16:42:40,175,tie_fighter,resistance,6,3,2,10,Rodia
+2024-02-06 16:42:39,176,tie_silencer,resistance,10,9,7,6,Umbara
+2024-02-06 16:42:38,177,at-at,resistance,3,5,6,3,Iridonia
+2024-02-06 16:42:37,178,tie_fighter,resistance,9,9,3,4,Bestine IV
+2024-02-06 16:42:36,179,resistance_soldier,empire,10,1,2,2,Tund
+2024-02-06 16:42:35,180,tie_silencer,empire,3,9,2,3,Zolan
+2024-02-06 16:42:34,181,tie_silencer,empire,8,7,2,5,Quermia
+2024-02-06 16:42:33,182,tie_fighter,resistance,9,7,7,6,Bestine IV
+2024-02-06 16:42:32,183,tie_silencer,resistance,9,4,2,10,Rodia
+2024-02-06 16:42:31,184,resistance_soldier,resistance,10,8,8,6,Kalee
+2024-02-06 16:42:30,185,tie_silencer,empire,10,9,8,3,Aleen Minor
+2024-02-06 16:42:29,186,unknown,empire,10,10,9,2,Zolan
+2024-02-06 16:42:28,187,resistance_soldier,empire,2,5,8,7,Toydaria
+2024-02-06 16:42:27,188,stormtrooper,empire,2,1,2,5,Umbara
+2024-02-06 16:42:26,189,at-st,resistance,10,10,5,8,Socorro
+2024-02-06 16:42:25,190,resistance_soldier,empire,6,2,1,6,Troiken
+2024-02-06 16:42:24,191,resistance_soldier,empire,4,3,10,8,Serenno
+2024-02-06 16:42:23,192,unknown,resistance,5,2,7,9,Kashyyyk
+2024-02-06 16:42:22,193,at-at,resistance,9,1,7,7,Mon Cala
+2024-02-06 16:42:21,194,tie_silencer,resistance,7,1,10,4,Mon Cala
+2024-02-06 16:42:20,195,unknown,resistance,7,1,3,3,Haruun Kal
+2024-02-06 16:42:19,196,tie_silencer,empire,9,1,8,10,Corellia
+2024-02-06 16:42:18,197,tie_silencer,resistance,7,2,10,10,Alderaan
+2024-02-06 16:42:17,198,at-st,resistance,6,7,7,4,Shili
+2024-02-06 16:42:16,199,unknown,empire,4,9,5,9,Concord Dawn
+2024-02-06 16:42:15,200,resistance_soldier,resistance,4,2,5,9,Glee Anselm
+2024-02-06 16:42:14,201,tie_fighter,resistance,9,7,10,2,Tund
+2024-02-06 16:42:13,202,x-wing,empire,2,7,6,4,Champala
+2024-02-06 16:42:12,203,at-st,empire,7,1,1,2,Dagobah
+2024-02-06 16:42:11,204,tie_silencer,resistance,8,4,6,5,Alderaan
+2024-02-06 16:42:10,205,unknown,empire,10,3,4,4,Stewjon
+2024-02-06 16:42:09,206,at-at,empire,8,3,8,5,Glee Anselm
+2024-02-06 16:42:08,207,stormtrooper,empire,3,2,10,4,Champala
+2024-02-06 16:42:07,208,tie_fighter,resistance,2,6,9,2,Cerea
+2024-02-06 16:42:06,209,resistance_soldier,empire,4,1,10,1,Zolan
+2024-02-06 16:42:05,210,tie_fighter,empire,1,3,5,2,Tatooine
+2024-02-06 16:42:04,211,stormtrooper,empire,7,3,3,7,Aleen Minor
+2024-02-06 16:42:03,212,tie_silencer,empire,10,5,2,5,Skako
+2024-02-06 16:42:02,213,at-st,empire,4,4,2,9,Stewjon
+2024-02-06 16:42:01,214,x-wing,resistance,5,4,7,1,Ryloth
+2024-02-06 16:42:00,215,tie_silencer,resistance,9,5,2,3,Alderaan
+2024-02-06 16:41:59,216,stormtrooper,resistance,3,8,5,4,Naboo
+2024-02-06 16:41:58,217,at-at,resistance,7,7,3,2,Dathomir
+2024-02-06 16:41:57,218,unknown,resistance,3,1,5,6,Mirial
+2024-02-06 16:41:56,219,stormtrooper,empire,9,2,10,2,Zolan
+2024-02-06 16:41:55,220,resistance_soldier,empire,7,2,2,2,Corellia
+2024-02-06 16:41:54,221,x-wing,empire,6,1,9,2,Kalee
+2024-02-06 16:41:53,222,resistance_soldier,resistance,7,1,5,3,Malastare
+2024-02-06 16:41:52,223,stormtrooper,resistance,7,6,5,5,Tatooine
+2024-02-06 16:41:51,224,at-st,empire,10,8,7,6,Tholoth
+2024-02-06 16:41:50,225,x-wing,empire,9,5,10,8,Dorin
+2024-02-06 16:41:49,226,unknown,empire,7,6,5,1,Corellia
+2024-02-06 16:41:48,227,tie_fighter,resistance,2,9,9,5,Concord Dawn
+2024-02-06 16:41:47,228,tie_silencer,empire,7,5,9,2,Concord Dawn
+2024-02-06 16:41:46,229,resistance_soldier,resistance,6,10,8,8,Mirial
+2024-02-06 16:41:45,230,resistance_soldier,resistance,10,4,2,9,Kalee
+2024-02-06 16:41:44,231,tie_fighter,resistance,5,4,3,10,Chandrila
+2024-02-06 16:41:43,232,at-at,empire,6,7,9,7,Tund
+2024-02-06 16:41:42,233,tie_silencer,empire,5,10,2,1,Kalee
+2024-02-06 16:41:41,234,tie_silencer,empire,9,2,7,9,Haruun Kal
+2024-02-06 16:41:40,235,tie_fighter,resistance,8,5,6,8,Cerea
+2024-02-06 16:41:39,236,unknown,resistance,10,6,3,2,Haruun Kal
+2024-02-06 16:41:38,237,unknown,resistance,10,3,6,4,Mon Cala
+2024-02-06 16:41:37,238,at-st,empire,1,9,9,9,Ojom
+2024-02-06 16:41:36,239,stormtrooper,resistance,9,3,9,2,Troiken
+2024-02-06 16:41:35,240,tie_fighter,resistance,10,1,2,6,Mon Cala
+2024-02-06 16:41:34,241,resistance_soldier,resistance,10,2,3,6,Haruun Kal
+2024-02-06 16:41:33,242,tie_fighter,resistance,6,1,4,1,Zolan
+2024-02-06 16:41:32,243,x-wing,empire,5,7,6,4,Corellia
+2024-02-06 16:41:31,244,at-at,resistance,8,7,5,6,Mon Cala
+2024-02-06 16:41:30,245,tie_fighter,empire,8,7,2,4,Quermia
+2024-02-06 16:41:29,246,unknown,empire,10,5,4,9,Socorro
+2024-02-06 16:41:28,247,tie_fighter,empire,2,3,10,9,Trandosha
+2024-02-06 16:41:27,248,at-st,empire,6,1,3,6,Mon Cala
+2024-02-06 16:41:26,249,at-at,resistance,6,7,5,6,Naboo
+2024-02-06 16:41:25,250,unknown,resistance,7,3,4,6,Alderaan
+2024-02-06 16:41:24,251,tie_silencer,resistance,6,3,2,9,Iktotch
+2024-02-06 16:41:23,252,unknown,empire,8,1,1,6,Stewjon
+2024-02-06 16:41:22,253,unknown,empire,4,5,4,5,Stewjon
+2024-02-06 16:41:21,254,resistance_soldier,empire,5,2,2,1,Vulpter
+2024-02-06 16:41:20,255,tie_fighter,empire,10,4,8,5,Aleen Minor
+2024-02-06 16:41:19,256,tie_fighter,empire,2,3,6,2,Aleen Minor
+2024-02-06 16:41:18,257,tie_fighter,empire,6,4,10,1,Haruun Kal
+2024-02-06 16:41:17,258,resistance_soldier,resistance,9,3,6,4,Iridonia
+2024-02-06 16:41:16,259,x-wing,empire,1,1,6,8,Kalee
+2024-02-06 16:41:15,260,tie_fighter,resistance,6,3,4,7,Glee Anselm
+2024-02-06 16:41:14,261,resistance_soldier,resistance,4,1,1,7,Malastare
+2024-02-06 16:41:13,262,x-wing,empire,8,1,7,9,Serenno
+2024-02-06 16:41:12,263,unknown,resistance,6,7,8,2,Champala
+2024-02-06 16:41:11,264,unknown,empire,7,10,6,7,Skako
+2024-02-06 16:41:10,265,at-at,empire,7,10,1,7,Corellia
+2024-02-06 16:41:09,266,x-wing,resistance,4,8,10,10,Shili
+2024-02-06 16:41:08,267,stormtrooper,resistance,4,8,8,3,Shili
+2024-02-06 16:41:07,268,tie_fighter,resistance,2,10,3,7,Eriadu
+2024-02-06 16:41:06,269,tie_fighter,resistance,1,10,7,7,Bestine IV
+2024-02-06 16:41:05,270,unknown,resistance,7,10,5,8,Shili
+2024-02-06 16:41:04,271,unknown,empire,1,10,1,1,Naboo
+2024-02-06 16:41:03,272,tie_silencer,empire,5,8,7,5,Serenno
+2024-02-06 16:41:02,273,tie_silencer,empire,8,3,5,6,Quermia
+2024-02-06 16:41:01,274,unknown,resistance,7,2,6,5,Sullust
+2024-02-06 16:41:00,275,x-wing,empire,1,5,9,4,Umbara
+2024-02-06 16:40:59,276,tie_silencer,empire,1,1,7,4,Tund
+2024-02-06 16:40:58,277,tie_silencer,empire,1,3,10,2,Mirial
+2024-02-06 16:40:57,278,at-at,resistance,8,3,4,5,Bestine IV
+2024-02-06 16:40:56,279,unknown,resistance,6,4,2,8,Ryloth
+2024-02-06 16:40:55,280,resistance_soldier,empire,10,3,6,5,Aleen Minor
+2024-02-06 16:40:54,281,tie_silencer,resistance,3,6,3,9,Socorro
+2024-02-06 16:40:53,282,x-wing,empire,1,2,8,5,Zolan
+2024-02-06 16:40:52,283,x-wing,resistance,1,4,3,10,Stewjon
+2024-02-06 16:40:51,284,resistance_soldier,resistance,4,1,1,3,Chandrila
+2024-02-06 16:40:50,285,at-st,empire,6,10,4,10,Stewjon
+2024-02-06 16:40:49,286,resistance_soldier,empire,6,9,1,9,Zolan
+2024-02-06 16:40:48,287,resistance_soldier,empire,2,3,6,6,Iridonia
+2024-02-06 16:40:47,288,at-at,resistance,6,2,4,6,Kalee
+2024-02-06 16:40:46,289,x-wing,resistance,7,9,10,9,Kashyyyk
+2024-02-06 16:40:45,290,x-wing,resistance,2,6,3,3,Quermia
+2024-02-06 16:40:44,291,at-st,resistance,5,3,5,6,Alderaan
+2024-02-06 16:40:43,292,at-st,resistance,7,8,10,6,Quermia
+2024-02-06 16:40:42,293,x-wing,resistance,7,3,7,3,Sullust
+2024-02-06 16:40:41,294,tie_silencer,empire,4,10,7,4,Iridonia
+2024-02-06 16:40:40,295,x-wing,resistance,3,4,6,7,Champala
+2024-02-06 16:40:39,296,x-wing,empire,8,5,1,5,Vulpter
+2024-02-06 16:40:38,297,at-at,resistance,6,9,7,8,Haruun Kal
+2024-02-06 16:40:37,298,resistance_soldier,resistance,5,10,10,3,Bestine IV
+2024-02-06 16:40:36,299,resistance_soldier,empire,8,8,1,3,Eriadu
+2024-02-06 16:40:35,300,at-at,empire,6,10,6,10,Dagobah
+2024-02-06 16:40:34,301,x-wing,empire,2,9,9,7,Stewjon
+2024-02-06 16:40:33,302,x-wing,empire,2,2,5,3,Naboo
+2024-02-06 16:40:32,303,stormtrooper,empire,9,7,10,1,Quermia
+2024-02-06 16:40:31,304,tie_silencer,empire,1,7,3,9,Ryloth
+2024-02-06 16:40:30,305,at-at,resistance,5,8,3,7,Rodia
+2024-02-06 16:40:29,306,at-st,resistance,10,7,9,7,Socorro
+2024-02-06 16:40:28,307,stormtrooper,empire,3,1,10,10,Vulpter
+2024-02-06 16:40:27,308,x-wing,resistance,2,9,10,9,Iridonia
+2024-02-06 16:40:26,309,x-wing,resistance,6,10,3,1,Kashyyyk
+2024-02-06 16:40:25,310,tie_fighter,resistance,7,9,8,5,Sullust
+2024-02-06 16:40:24,311,tie_fighter,empire,6,8,9,4,Tund
+2024-02-06 16:40:23,312,at-st,empire,10,7,8,5,Toydaria
+2024-02-06 16:40:22,313,tie_silencer,resistance,9,2,5,5,Cerea
+2024-02-06 16:40:21,314,unknown,resistance,3,2,3,8,Umbara
+2024-02-06 16:40:20,315,resistance_soldier,empire,4,10,1,8,Kalee
+2024-02-06 16:40:19,316,stormtrooper,empire,9,10,8,7,Tatooine
+2024-02-06 16:40:18,317,stormtrooper,empire,6,5,2,7,Tund
+2024-02-06 16:40:17,318,at-at,resistance,7,3,2,9,Troiken
+2024-02-06 16:40:16,319,at-st,resistance,10,1,7,4,Haruun Kal
+2024-02-06 16:40:15,320,at-at,resistance,1,8,5,10,Umbara
+2024-02-06 16:40:14,321,at-st,empire,2,7,7,1,Iktotch
+2024-02-06 16:40:13,322,unknown,empire,3,1,1,3,Dagobah
+2024-02-06 16:40:12,323,at-at,empire,5,3,3,4,Dorin
+2024-02-06 16:40:11,324,at-st,resistance,10,2,1,8,Vulpter
+2024-02-06 16:40:10,325,at-at,empire,8,5,3,2,Tholoth
+2024-02-06 16:40:09,326,resistance_soldier,resistance,10,4,7,3,Glee Anselm
+2024-02-06 16:40:08,327,x-wing,resistance,9,10,2,2,Naboo
+2024-02-06 16:40:07,328,tie_fighter,empire,7,9,5,6,Eriadu
+2024-02-06 16:40:06,329,at-at,resistance,10,7,5,9,Quermia
+2024-02-06 16:40:05,330,tie_fighter,resistance,9,9,9,7,Vulpter
+2024-02-06 16:40:04,331,at-at,empire,3,1,5,5,Muunilinst
+2024-02-06 16:40:03,332,tie_fighter,resistance,10,6,4,7,Skako
+2024-02-06 16:40:02,333,at-at,resistance,5,8,10,7,Dorin
+2024-02-06 16:40:01,334,stormtrooper,empire,3,6,10,1,Malastare
+2024-02-06 16:40:00,335,resistance_soldier,resistance,9,4,9,7,Concord Dawn
+2024-02-06 16:39:59,336,resistance_soldier,resistance,7,5,3,8,Sullust
+2024-02-06 16:39:58,337,unknown,empire,1,1,9,2,Skako
+2024-02-06 16:39:57,338,at-at,resistance,2,4,10,4,Cerea
+2024-02-06 16:39:56,339,tie_fighter,resistance,5,7,9,9,Quermia
+2024-02-06 16:39:55,340,at-at,resistance,1,3,10,7,Mon Cala
+2024-02-06 16:39:54,341,resistance_soldier,empire,3,5,4,3,Skako
+2024-02-06 16:39:53,342,resistance_soldier,empire,10,9,5,9,Socorro
+2024-02-06 16:39:52,343,unknown,empire,9,3,3,10,Stewjon
+2024-02-06 16:39:51,344,unknown,resistance,10,8,6,4,Iktotch
+2024-02-06 16:39:50,345,tie_fighter,resistance,7,4,9,2,Iktotch
+2024-02-06 16:39:49,346,tie_fighter,resistance,5,7,7,9,Chandrila
+2024-02-06 16:39:48,347,stormtrooper,empire,3,8,4,2,Glee Anselm
+2024-02-06 16:39:47,348,x-wing,empire,10,3,3,3,Serenno
+2024-02-06 16:39:46,349,x-wing,resistance,1,4,8,5,Shili
+2024-02-06 16:39:45,350,at-at,resistance,1,4,1,8,Ojom
+2024-02-06 16:39:44,351,stormtrooper,empire,6,1,10,8,Socorro
+2024-02-06 16:39:43,352,unknown,resistance,2,8,3,10,Socorro
+2024-02-06 16:39:42,353,resistance_soldier,resistance,8,10,7,10,Vulpter
+2024-02-06 16:39:41,354,stormtrooper,resistance,1,8,10,6,Mon Cala
+2024-02-06 16:39:40,355,unknown,resistance,3,10,9,4,Troiken
+2024-02-06 16:39:39,356,at-st,empire,3,8,10,2,Corellia
+2024-02-06 16:39:38,357,tie_fighter,resistance,1,1,1,4,Zolan
+2024-02-06 16:39:37,358,unknown,resistance,2,10,7,3,Haruun Kal
+2024-02-06 16:39:36,359,at-at,empire,1,10,8,8,Troiken
+2024-02-06 16:39:35,360,at-st,empire,8,8,9,9,Dagobah
+2024-02-06 16:39:34,361,resistance_soldier,resistance,5,2,1,10,Kalee
+2024-02-06 16:39:33,362,stormtrooper,empire,3,7,9,9,Tholoth
+2024-02-06 16:39:32,363,x-wing,empire,9,3,2,7,Haruun Kal
+2024-02-06 16:39:31,364,tie_silencer,empire,6,8,2,8,Mirial
+2024-02-06 16:39:30,365,at-st,empire,10,5,10,2,Tholoth
+2024-02-06 16:39:29,366,tie_silencer,resistance,7,2,8,6,Kalee
+2024-02-06 16:39:28,367,at-at,empire,9,5,3,6,Kalee
+2024-02-06 16:39:27,368,tie_silencer,resistance,8,8,5,1,Bestine IV
+2024-02-06 16:39:26,369,unknown,empire,6,1,1,10,Dagobah
+2024-02-06 16:39:25,370,at-at,empire,6,8,1,9,Ryloth
+2024-02-06 16:39:24,371,stormtrooper,resistance,8,5,4,1,Vulpter
+2024-02-06 16:39:23,372,tie_fighter,empire,8,7,3,10,Umbara
+2024-02-06 16:39:22,373,resistance_soldier,resistance,10,10,8,8,Haruun Kal
+2024-02-06 16:39:21,374,at-at,resistance,7,1,10,3,Troiken
+2024-02-06 16:39:20,375,stormtrooper,resistance,8,10,7,2,Vulpter
+2024-02-06 16:39:19,376,x-wing,resistance,8,8,6,4,Quermia
+2024-02-06 16:39:18,377,at-st,empire,8,3,3,7,Vulpter
+2024-02-06 16:39:17,378,at-st,resistance,2,8,2,7,Mirial
+2024-02-06 16:39:16,379,tie_fighter,empire,2,10,1,3,Skako
+2024-02-06 16:39:15,380,resistance_soldier,empire,9,4,7,7,Muunilinst
+2024-02-06 16:39:14,381,at-st,resistance,2,5,6,3,Naboo
+2024-02-06 16:39:13,382,tie_fighter,resistance,1,8,4,5,Glee Anselm
+2024-02-06 16:39:12,383,unknown,empire,10,3,4,1,Dagobah
+2024-02-06 16:39:11,384,at-at,empire,8,4,3,9,Skako
+2024-02-06 16:39:10,385,tie_fighter,resistance,4,3,4,5,Skako
+2024-02-06 16:39:09,386,at-st,empire,9,8,7,6,Dathomir
+2024-02-06 16:39:08,387,at-at,resistance,5,5,7,3,Iktotch
+2024-02-06 16:39:07,388,tie_silencer,resistance,9,5,3,1,Aleen Minor
+2024-02-06 16:39:06,389,tie_silencer,empire,2,1,1,8,Champala
+2024-02-06 16:39:05,390,at-st,resistance,10,3,3,4,Trandosha
+2024-02-06 16:39:04,391,resistance_soldier,empire,10,6,2,1,Dagobah
+2024-02-06 16:39:03,392,tie_fighter,empire,8,8,1,8,Concord Dawn
+2024-02-06 16:39:02,393,resistance_soldier,resistance,7,3,2,4,Chandrila
+2024-02-06 16:39:01,394,at-st,resistance,4,6,8,9,Shili
+2024-02-06 16:39:00,395,x-wing,empire,9,3,5,7,Tholoth
+2024-02-06 16:38:59,396,tie_silencer,empire,6,9,1,3,Stewjon
+2024-02-06 16:38:58,397,x-wing,empire,2,3,6,1,Toydaria
+2024-02-06 16:38:57,398,at-st,resistance,8,5,2,9,Ryloth
+2024-02-06 16:38:56,399,unknown,empire,2,5,2,5,Concord Dawn
+2024-02-06 16:38:55,400,x-wing,empire,4,10,2,3,Rodia
+2024-02-06 16:38:54,401,at-at,empire,8,5,4,6,Glee Anselm
+2024-02-06 16:38:53,402,unknown,resistance,1,6,9,8,Bestine IV
+2024-02-06 16:38:52,403,unknown,empire,3,7,10,9,Socorro
+2024-02-06 16:38:51,404,unknown,empire,4,4,2,1,Corellia
+2024-02-06 16:38:50,405,resistance_soldier,resistance,9,1,7,4,Umbara
+2024-02-06 16:38:49,406,at-at,empire,7,10,5,3,Champala
+2024-02-06 16:38:48,407,unknown,empire,3,9,6,5,Shili
+2024-02-06 16:38:47,408,stormtrooper,empire,9,2,1,10,Trandosha
+2024-02-06 16:38:46,409,resistance_soldier,resistance,3,10,8,7,Haruun Kal
+2024-02-06 16:38:45,410,tie_silencer,empire,1,4,10,5,Concord Dawn
+2024-02-06 16:38:44,411,tie_silencer,empire,1,9,6,5,Stewjon
+2024-02-06 16:38:43,412,tie_fighter,resistance,6,9,10,2,Cerea
+2024-02-06 16:38:42,413,at-at,empire,9,7,8,6,Sullust
+2024-02-06 16:38:41,414,tie_fighter,resistance,7,10,8,8,Umbara
+2024-02-06 16:38:40,415,x-wing,empire,3,10,9,3,Trandosha
+2024-02-06 16:38:39,416,tie_silencer,empire,9,1,3,7,Cerea
+2024-02-06 16:38:38,417,at-st,empire,9,2,4,7,Corellia
+2024-02-06 16:38:37,418,stormtrooper,empire,1,5,6,3,Glee Anselm
+2024-02-06 16:38:36,419,resistance_soldier,empire,3,2,5,7,Concord Dawn
+2024-02-06 16:38:35,420,at-st,resistance,7,8,4,2,Champala
+2024-02-06 16:38:34,421,tie_silencer,empire,7,6,6,5,Muunilinst
+2024-02-06 16:38:33,422,at-at,resistance,8,5,6,2,Kashyyyk
+2024-02-06 16:38:32,423,at-st,resistance,6,6,6,3,Tholoth
+2024-02-06 16:38:31,424,resistance_soldier,resistance,4,8,4,2,Chandrila
+2024-02-06 16:38:30,425,x-wing,empire,5,4,9,4,Zolan
+2024-02-06 16:38:29,426,tie_fighter,empire,3,1,6,3,Bestine IV
+2024-02-06 16:38:28,427,unknown,resistance,9,6,10,1,Dagobah
+2024-02-06 16:38:27,428,x-wing,resistance,6,9,8,5,Tholoth
+2024-02-06 16:38:26,429,stormtrooper,empire,10,1,7,2,Troiken
+2024-02-06 16:38:25,430,at-st,resistance,1,7,6,4,Malastare
+2024-02-06 16:38:24,431,tie_silencer,resistance,6,3,9,10,Troiken
+2024-02-06 16:38:23,432,stormtrooper,resistance,7,3,9,6,Glee Anselm
+2024-02-06 16:38:22,433,at-st,resistance,10,6,1,4,Kalee
+2024-02-06 16:38:21,434,tie_fighter,resistance,9,7,8,5,Mon Cala
+2024-02-06 16:38:20,435,stormtrooper,resistance,2,4,10,2,Muunilinst
+2024-02-06 16:38:19,436,x-wing,empire,8,1,8,1,Champala
+2024-02-06 16:38:18,437,tie_silencer,resistance,4,10,9,9,Alderaan
+2024-02-06 16:38:17,438,resistance_soldier,empire,8,9,9,8,Dorin
+2024-02-06 16:38:16,439,unknown,empire,4,8,7,10,Concord Dawn
+2024-02-06 16:38:15,440,unknown,empire,1,3,10,6,Dorin
+2024-02-06 16:38:14,441,stormtrooper,empire,9,9,10,9,Kalee
+2024-02-06 16:38:13,442,unknown,resistance,6,3,7,1,Chandrila
+2024-02-06 16:38:12,443,at-st,empire,1,7,5,4,Champala
+2024-02-06 16:38:11,444,at-at,empire,6,8,6,8,Corellia
+2024-02-06 16:38:10,445,unknown,empire,1,1,1,6,Zolan
+2024-02-06 16:38:09,446,at-st,empire,4,10,5,2,Dagobah
+2024-02-06 16:38:08,447,unknown,empire,4,5,9,4,Naboo
+2024-02-06 16:38:07,448,x-wing,empire,9,10,10,3,Tund
+2024-02-06 16:38:06,449,resistance_soldier,empire,6,4,5,5,Umbara
+2024-02-06 16:38:05,450,tie_fighter,resistance,7,3,9,2,Bestine IV
+2024-02-06 16:38:04,451,at-st,resistance,8,5,10,8,Chandrila
+2024-02-06 16:38:03,452,tie_silencer,empire,10,10,7,3,Tatooine
+2024-02-06 16:38:02,453,tie_fighter,empire,4,1,1,7,Stewjon
+2024-02-06 16:38:01,454,tie_silencer,empire,4,4,3,6,Haruun Kal
+2024-02-06 16:38:00,455,resistance_soldier,empire,1,9,5,6,Toydaria
+2024-02-06 16:37:59,456,at-st,empire,4,7,7,8,Kalee
+2024-02-06 16:37:58,457,resistance_soldier,resistance,3,10,10,7,Skako
+2024-02-06 16:37:57,458,at-at,empire,8,10,5,10,Toydaria
+2024-02-06 16:37:56,459,stormtrooper,empire,4,9,5,2,Toydaria
+2024-02-06 16:37:55,460,resistance_soldier,empire,9,8,4,7,Quermia
+2024-02-06 16:37:54,461,tie_silencer,empire,7,5,9,6,Muunilinst
+2024-02-06 16:37:53,462,at-at,resistance,3,1,5,1,Vulpter
+2024-02-06 16:37:52,463,stormtrooper,resistance,3,8,7,8,Iridonia
+2024-02-06 16:37:51,464,at-at,empire,3,7,6,3,Bestine IV
+2024-02-06 16:37:50,465,resistance_soldier,resistance,5,7,8,7,Sullust
+2024-02-06 16:37:49,466,tie_fighter,empire,10,4,9,2,Dorin
+2024-02-06 16:37:48,467,x-wing,empire,8,4,1,9,Troiken
+2024-02-06 16:37:47,468,tie_silencer,empire,6,2,2,5,Toydaria
+2024-02-06 16:37:46,469,at-at,empire,2,4,8,7,Rodia
+2024-02-06 16:37:45,470,tie_silencer,empire,4,2,8,1,Dathomir
+2024-02-06 16:37:44,471,at-at,empire,1,6,1,3,Serenno
+2024-02-06 16:37:43,472,at-at,resistance,8,8,7,8,Cerea
+2024-02-06 16:37:42,473,at-at,empire,4,5,5,6,Iktotch
+2024-02-06 16:37:41,474,at-at,empire,7,10,6,1,Champala
+2024-02-06 16:37:40,475,x-wing,empire,4,6,3,2,Muunilinst
+2024-02-06 16:37:39,476,at-at,empire,5,10,1,6,Aleen Minor
+2024-02-06 16:37:38,477,x-wing,empire,9,2,7,5,Dathomir
+2024-02-06 16:37:37,478,x-wing,empire,4,3,8,2,Dagobah
+2024-02-06 16:37:36,479,stormtrooper,empire,8,7,3,5,Haruun Kal
+2024-02-06 16:37:35,480,unknown,empire,8,6,3,4,Chandrila
+2024-02-06 16:37:34,481,resistance_soldier,empire,5,7,7,10,Dorin
+2024-02-06 16:37:33,482,resistance_soldier,resistance,8,4,9,5,Sullust
+2024-02-06 16:37:32,483,x-wing,empire,10,9,3,6,Corellia
+2024-02-06 16:37:31,484,x-wing,resistance,7,8,3,1,Iridonia
+2024-02-06 16:37:30,485,at-st,empire,7,4,2,1,Tatooine
+2024-02-06 16:37:29,486,x-wing,resistance,4,10,8,7,Concord Dawn
+2024-02-06 16:37:28,487,tie_fighter,resistance,8,9,5,9,Iridonia
+2024-02-06 16:37:27,488,at-at,resistance,2,2,7,9,Dagobah
+2024-02-06 16:37:26,489,stormtrooper,empire,8,7,1,10,Shili
+2024-02-06 16:37:25,490,at-at,empire,5,4,5,4,Troiken
+2024-02-06 16:37:24,491,tie_silencer,empire,5,10,10,10,Kalee
+2024-02-06 16:37:23,492,at-st,resistance,4,2,7,1,Zolan
+2024-02-06 16:37:22,493,resistance_soldier,empire,6,2,7,10,Umbara
+2024-02-06 16:37:21,494,x-wing,resistance,10,4,1,7,Iridonia
+2024-02-06 16:37:20,495,at-st,empire,8,10,4,7,Quermia
+2024-02-06 16:37:19,496,stormtrooper,empire,3,10,9,5,Tund
+2024-02-06 16:37:18,497,tie_fighter,resistance,6,7,9,7,Alderaan
+2024-02-06 16:37:17,498,at-st,empire,3,10,4,10,Tund
+2024-02-06 16:37:16,499,unknown,empire,9,6,8,8,Trandosha
+2024-02-06 16:37:15,500,stormtrooper,empire,8,1,2,10,Stewjon
+2024-02-06 16:37:14,501,unknown,resistance,6,10,7,1,Dathomir
+2024-02-06 16:37:13,502,tie_silencer,empire,6,7,7,6,Corellia
+2024-02-06 16:37:12,503,resistance_soldier,resistance,1,5,3,1,Mon Cala
+2024-02-06 16:37:11,504,at-st,resistance,1,1,5,9,Dathomir
+2024-02-06 16:37:10,505,unknown,resistance,8,8,7,8,Glee Anselm
+2024-02-06 16:37:09,506,tie_silencer,resistance,10,3,4,4,Sullust
+2024-02-06 16:37:08,507,unknown,empire,1,6,6,2,Corellia
+2024-02-06 16:37:07,508,tie_silencer,resistance,1,9,7,6,Chandrila
+2024-02-06 16:37:06,509,tie_fighter,resistance,5,5,7,7,Malastare
+2024-02-06 16:37:05,510,at-st,empire,10,3,1,10,Concord Dawn
+2024-02-06 16:37:04,511,x-wing,resistance,10,4,6,5,Muunilinst
+2024-02-06 16:37:03,512,resistance_soldier,resistance,2,5,9,10,Alderaan
+2024-02-06 16:37:02,513,x-wing,empire,5,3,3,6,Troiken
+2024-02-06 16:37:01,514,tie_fighter,resistance,7,8,6,8,Socorro
+2024-02-06 16:37:00,515,unknown,empire,3,7,1,9,Toydaria
+2024-02-06 16:36:59,516,at-st,resistance,4,6,4,9,Kashyyyk
+2024-02-06 16:36:58,517,tie_silencer,empire,8,5,8,3,Concord Dawn
+2024-02-06 16:36:57,518,unknown,resistance,3,9,8,2,Naboo
+2024-02-06 16:36:56,519,resistance_soldier,empire,3,1,5,3,Umbara
+2024-02-06 16:36:55,520,at-st,empire,8,7,1,10,Socorro
+2024-02-06 16:36:54,521,tie_silencer,resistance,10,7,9,1,Dagobah
+2024-02-06 16:36:53,522,tie_fighter,empire,4,2,8,9,Aleen Minor
+2024-02-06 16:36:52,523,resistance_soldier,resistance,10,3,10,1,Bestine IV
+2024-02-06 16:36:51,524,unknown,resistance,7,1,5,4,Tholoth
+2024-02-06 16:36:50,525,at-st,resistance,9,1,5,8,Socorro
+2024-02-06 16:36:49,526,tie_fighter,resistance,9,7,7,4,Bestine IV
+2024-02-06 16:36:48,527,unknown,empire,4,1,7,5,Ryloth
+2024-02-06 16:36:47,528,at-st,empire,8,1,4,1,Concord Dawn
+2024-02-06 16:36:46,529,x-wing,empire,1,5,9,2,Iktotch
+2024-02-06 16:36:45,530,at-at,empire,10,7,1,7,Skako
+2024-02-06 16:36:44,531,tie_fighter,resistance,9,10,9,1,Dorin
+2024-02-06 16:36:43,532,at-st,resistance,10,1,5,7,Iktotch
+2024-02-06 16:36:42,533,tie_fighter,resistance,5,5,3,3,Chandrila
+2024-02-06 16:36:41,534,at-st,empire,4,8,10,10,Dagobah
+2024-02-06 16:36:40,535,unknown,empire,8,9,5,5,Skako
+2024-02-06 16:36:39,536,unknown,empire,3,10,9,2,Stewjon
+2024-02-06 16:36:38,537,stormtrooper,resistance,9,6,5,4,Shili
+2024-02-06 16:36:37,538,at-at,resistance,4,2,4,10,Shili
+2024-02-06 16:36:36,539,resistance_soldier,resistance,2,5,2,1,Alderaan
+2024-02-06 16:36:35,540,x-wing,empire,3,1,2,3,Concord Dawn
+2024-02-06 16:36:34,541,stormtrooper,resistance,3,6,7,7,Tatooine
+2024-02-06 16:36:33,542,x-wing,empire,5,5,7,5,Umbara
+2024-02-06 16:36:32,543,unknown,empire,4,9,10,4,Rodia
+2024-02-06 16:36:31,544,tie_fighter,resistance,7,2,5,10,Haruun Kal
+2024-02-06 16:36:30,545,tie_fighter,resistance,5,2,3,10,Stewjon
+2024-02-06 16:36:29,546,tie_silencer,resistance,10,10,6,7,Naboo
+2024-02-06 16:36:28,547,x-wing,resistance,10,1,6,4,Troiken
+2024-02-06 16:36:27,548,resistance_soldier,empire,10,10,8,8,Concord Dawn
+2024-02-06 16:36:26,549,x-wing,resistance,5,5,8,9,Haruun Kal
+2024-02-06 16:36:25,550,stormtrooper,resistance,5,5,2,10,Troiken
+2024-02-06 16:36:24,551,tie_fighter,empire,9,7,4,8,Glee Anselm
+2024-02-06 16:36:23,552,at-st,resistance,8,10,1,1,Troiken
+2024-02-06 16:36:22,553,x-wing,resistance,5,3,6,5,Alderaan
+2024-02-06 16:36:21,554,resistance_soldier,empire,7,9,2,3,Socorro
+2024-02-06 16:36:20,555,stormtrooper,empire,10,1,3,4,Corellia
+2024-02-06 16:36:19,556,at-st,resistance,4,5,1,9,Tatooine
+2024-02-06 16:36:18,557,resistance_soldier,empire,2,7,10,10,Toydaria
+2024-02-06 16:36:17,558,resistance_soldier,empire,8,6,1,1,Bestine IV
+2024-02-06 16:36:16,559,unknown,resistance,2,8,2,4,Iktotch
+2024-02-06 16:36:15,560,at-st,resistance,6,6,9,9,Socorro
+2024-02-06 16:36:14,561,at-st,resistance,7,4,1,4,Mon Cala
+2024-02-06 16:36:13,562,x-wing,resistance,3,2,2,1,Stewjon
+2024-02-06 16:36:12,563,tie_fighter,empire,10,9,4,4,Concord Dawn
+2024-02-06 16:36:11,564,tie_fighter,empire,9,10,7,6,Vulpter
+2024-02-06 16:36:10,565,resistance_soldier,empire,3,4,6,2,Mirial
+2024-02-06 16:36:09,566,stormtrooper,resistance,4,1,2,5,Concord Dawn
+2024-02-06 16:36:08,567,at-st,resistance,1,3,3,4,Iridonia
+2024-02-06 16:36:07,568,at-st,empire,2,2,1,4,Muunilinst
+2024-02-06 16:36:06,569,unknown,empire,9,4,8,5,Ojom
+2024-02-06 16:36:05,570,at-st,resistance,5,5,4,7,Iridonia
+2024-02-06 16:36:04,571,stormtrooper,resistance,2,2,7,6,Rodia
+2024-02-06 16:36:03,572,unknown,empire,5,5,3,5,Toydaria
+2024-02-06 16:36:02,573,at-st,empire,2,6,10,9,Corellia
+2024-02-06 16:36:01,574,at-at,resistance,8,7,3,10,Rodia
+2024-02-06 16:36:00,575,tie_silencer,resistance,9,3,10,2,Troiken
+2024-02-06 16:35:59,576,stormtrooper,resistance,7,1,5,3,Umbara
+2024-02-06 16:35:58,577,tie_fighter,resistance,3,7,4,1,Haruun Kal
+2024-02-06 16:35:57,578,x-wing,empire,1,3,8,6,Aleen Minor
+2024-02-06 16:35:56,579,at-st,empire,7,1,10,8,Zolan
+2024-02-06 16:35:55,580,x-wing,empire,7,5,7,10,Muunilinst
+2024-02-06 16:35:54,581,unknown,empire,5,8,2,2,Serenno
+2024-02-06 16:35:53,582,stormtrooper,empire,7,7,1,6,Corellia
+2024-02-06 16:35:52,583,stormtrooper,empire,1,1,10,9,Skako
+2024-02-06 16:35:51,584,tie_silencer,empire,3,8,8,4,Corellia
+2024-02-06 16:35:50,585,unknown,empire,4,8,5,1,Ojom
+2024-02-06 16:35:49,586,unknown,resistance,4,5,6,7,Iridonia
+2024-02-06 16:35:48,587,stormtrooper,resistance,5,7,9,4,Malastare
+2024-02-06 16:35:47,588,tie_silencer,empire,3,3,3,9,Iktotch
+2024-02-06 16:35:46,589,tie_silencer,resistance,6,4,1,9,Mon Cala
+2024-02-06 16:35:45,590,resistance_soldier,empire,2,6,9,3,Aleen Minor
+2024-02-06 16:35:44,591,x-wing,empire,7,10,10,7,Dathomir
+2024-02-06 16:35:43,592,tie_fighter,empire,2,5,2,6,Iktotch
+2024-02-06 16:35:42,593,x-wing,resistance,5,2,4,10,Iridonia
+2024-02-06 16:35:41,594,tie_silencer,resistance,3,8,9,10,Iridonia
+2024-02-06 16:35:40,595,stormtrooper,resistance,6,1,6,7,Muunilinst
+2024-02-06 16:35:39,596,unknown,empire,1,6,3,3,Trandosha
+2024-02-06 16:35:38,597,at-st,empire,6,5,9,5,Dathomir
+2024-02-06 16:35:37,598,tie_fighter,resistance,3,2,5,1,Iridonia
+2024-02-06 16:35:36,599,at-st,empire,3,7,10,1,Naboo
+2024-02-06 16:35:35,600,at-st,empire,9,5,6,3,Dagobah
+2024-02-06 16:35:34,601,resistance_soldier,resistance,8,3,1,1,Tatooine
+2024-02-06 16:35:33,602,resistance_soldier,empire,10,1,8,3,Tund
+2024-02-06 16:35:32,603,at-at,empire,1,8,5,4,Malastare
+2024-02-06 16:35:31,604,x-wing,empire,10,1,4,9,Rodia
+2024-02-06 16:35:30,605,tie_fighter,resistance,4,5,1,10,Malastare
+2024-02-06 16:35:29,606,tie_silencer,resistance,2,9,9,10,Chandrila
+2024-02-06 16:35:28,607,tie_fighter,resistance,2,4,9,2,Naboo
+2024-02-06 16:35:27,608,x-wing,empire,9,9,6,7,Haruun Kal
+2024-02-06 16:35:26,609,unknown,resistance,4,3,1,9,Rodia
+2024-02-06 16:35:25,610,at-st,empire,7,3,1,3,Muunilinst
+2024-02-06 16:35:24,611,x-wing,resistance,9,6,6,7,Vulpter
+2024-02-06 16:35:23,612,stormtrooper,empire,8,2,2,10,Dagobah
+2024-02-06 16:35:22,613,stormtrooper,resistance,6,5,7,8,Umbara
+2024-02-06 16:35:21,614,at-st,empire,7,10,10,3,Iktotch
+2024-02-06 16:35:20,615,tie_fighter,empire,10,5,9,8,Cerea
+2024-02-06 16:35:19,616,at-at,resistance,1,3,4,1,Iktotch
+2024-02-06 16:35:18,617,stormtrooper,resistance,1,7,9,6,Shili
+2024-02-06 16:35:17,618,tie_silencer,resistance,4,5,4,2,Iktotch
+2024-02-06 16:35:16,619,at-at,resistance,5,5,9,3,Shili
+2024-02-06 16:35:15,620,at-st,resistance,9,4,4,5,Iktotch
+2024-02-06 16:35:14,621,resistance_soldier,empire,10,2,1,4,Aleen Minor
+2024-02-06 16:35:13,622,tie_fighter,resistance,10,5,4,2,Champala
+2024-02-06 16:35:12,623,x-wing,resistance,8,2,9,3,Stewjon
+2024-02-06 16:35:11,624,at-st,resistance,3,3,7,5,Bestine IV
+2024-02-06 16:35:10,625,at-at,resistance,2,4,7,5,Eriadu
+2024-02-06 16:35:09,626,unknown,empire,4,3,5,9,Trandosha
+2024-02-06 16:35:08,627,unknown,resistance,7,10,3,7,Kashyyyk
+2024-02-06 16:35:07,628,resistance_soldier,resistance,9,3,5,8,Tund
+2024-02-06 16:35:06,629,tie_silencer,resistance,3,5,10,3,Mon Cala
+2024-02-06 16:35:05,630,at-st,empire,1,5,3,8,Trandosha
+2024-02-06 16:35:04,631,unknown,resistance,2,7,6,7,Kashyyyk
+2024-02-06 16:35:03,632,at-at,resistance,2,10,8,8,Troiken
+2024-02-06 16:35:02,633,resistance_soldier,empire,8,5,7,8,Bestine IV
+2024-02-06 16:35:01,634,x-wing,resistance,6,4,6,1,Naboo
+2024-02-06 16:35:00,635,resistance_soldier,resistance,5,2,2,9,Tholoth
+2024-02-06 16:34:59,636,unknown,empire,8,5,1,2,Tund
+2024-02-06 16:34:58,637,unknown,resistance,10,8,7,3,Sullust
+2024-02-06 16:34:57,638,unknown,empire,4,8,3,8,Dagobah
+2024-02-06 16:34:56,639,tie_fighter,empire,1,2,7,4,Zolan
+2024-02-06 16:34:55,640,x-wing,empire,3,5,4,6,Dagobah
+2024-02-06 16:34:54,641,stormtrooper,empire,7,2,6,3,Dorin
+2024-02-06 16:34:53,642,x-wing,resistance,2,1,5,9,Mirial
+2024-02-06 16:34:52,643,at-st,empire,7,10,7,9,Aleen Minor
+2024-02-06 16:34:51,644,at-at,empire,6,3,3,10,Corellia
+2024-02-06 16:34:50,645,resistance_soldier,resistance,9,7,10,1,Iktotch
+2024-02-06 16:34:49,646,stormtrooper,resistance,10,5,8,10,Ojom
+2024-02-06 16:34:48,647,tie_fighter,resistance,7,1,9,4,Sullust
+2024-02-06 16:34:47,648,at-at,empire,8,7,3,10,Serenno
+2024-02-06 16:34:46,649,stormtrooper,empire,5,7,5,7,Stewjon
+2024-02-06 16:34:45,650,tie_silencer,resistance,4,2,5,2,Sullust
+2024-02-06 16:34:44,651,at-st,empire,2,3,4,5,Chandrila
+2024-02-06 16:34:43,652,at-at,resistance,4,1,2,9,Mon Cala
+2024-02-06 16:34:42,653,at-st,resistance,7,6,8,6,Quermia
+2024-02-06 16:34:41,654,x-wing,resistance,6,1,9,5,Glee Anselm
+2024-02-06 16:34:40,655,tie_fighter,empire,2,3,1,2,Muunilinst
+2024-02-06 16:34:39,656,x-wing,resistance,5,8,2,1,Kashyyyk
+2024-02-06 16:34:38,657,stormtrooper,empire,3,2,9,8,Corellia
+2024-02-06 16:34:37,658,resistance_soldier,resistance,9,3,7,8,Champala
+2024-02-06 16:34:36,659,tie_silencer,empire,3,9,7,2,Corellia
+2024-02-06 16:34:35,660,resistance_soldier,resistance,1,4,2,8,Troiken
+2024-02-06 16:34:34,661,unknown,empire,2,1,3,1,Tund
+2024-02-06 16:34:33,662,x-wing,resistance,4,4,6,6,Naboo
+2024-02-06 16:34:32,663,resistance_soldier,empire,2,10,10,4,Muunilinst
+2024-02-06 16:34:31,664,x-wing,resistance,1,6,7,5,Tholoth
+2024-02-06 16:34:30,665,at-at,resistance,3,2,3,10,Iridonia
+2024-02-06 16:34:29,666,resistance_soldier,resistance,8,8,2,3,Tatooine
+2024-02-06 16:34:28,667,stormtrooper,resistance,10,5,2,4,Haruun Kal
+2024-02-06 16:34:27,668,resistance_soldier,empire,1,5,3,5,Muunilinst
+2024-02-06 16:34:26,669,unknown,empire,8,8,5,9,Skako
+2024-02-06 16:34:25,670,unknown,empire,6,9,5,1,Toydaria
+2024-02-06 16:34:24,671,tie_fighter,resistance,2,6,7,6,Mon Cala
+2024-02-06 16:34:23,672,at-at,empire,3,6,8,9,Stewjon
+2024-02-06 16:34:22,673,tie_silencer,resistance,6,4,3,5,Chandrila
+2024-02-06 16:34:21,674,unknown,resistance,3,10,7,9,Haruun Kal
+2024-02-06 16:34:20,675,stormtrooper,empire,5,5,1,3,Cerea
+2024-02-06 16:34:19,676,at-st,resistance,3,6,1,2,Mirial
+2024-02-06 16:34:18,677,at-st,resistance,10,7,7,9,Haruun Kal
+2024-02-06 16:34:17,678,x-wing,empire,2,4,3,10,Corellia
+2024-02-06 16:34:16,679,at-st,empire,10,1,9,1,Muunilinst
+2024-02-06 16:34:15,680,tie_fighter,empire,8,2,3,3,Malastare
+2024-02-06 16:34:14,681,tie_silencer,empire,8,6,1,5,Aleen Minor
+2024-02-06 16:34:13,682,stormtrooper,resistance,6,4,1,4,Chandrila
+2024-02-06 16:34:12,683,stormtrooper,empire,10,5,6,4,Stewjon
+2024-02-06 16:34:11,684,stormtrooper,resistance,9,2,3,8,Troiken
+2024-02-06 16:34:10,685,tie_silencer,empire,10,8,3,3,Kalee
+2024-02-06 16:34:09,686,resistance_soldier,resistance,8,5,6,10,Quermia
+2024-02-06 16:34:08,687,tie_silencer,resistance,4,3,10,2,Bestine IV
+2024-02-06 16:34:07,688,tie_silencer,resistance,6,7,5,2,Socorro
+2024-02-06 16:34:06,689,tie_silencer,empire,10,3,8,7,Serenno
+2024-02-06 16:34:05,690,at-st,empire,1,6,7,6,Haruun Kal
+2024-02-06 16:34:04,691,at-at,empire,7,9,2,7,Concord Dawn
+2024-02-06 16:34:03,692,unknown,empire,9,4,8,2,Tund
+2024-02-06 16:34:02,693,tie_silencer,resistance,7,3,4,9,Kalee
+2024-02-06 16:34:01,694,tie_silencer,resistance,3,1,5,7,Sullust
+2024-02-06 16:34:00,695,tie_silencer,resistance,10,1,1,5,Shili
+2024-02-06 16:33:59,696,stormtrooper,resistance,5,2,6,1,Mon Cala
+2024-02-06 16:33:58,697,x-wing,empire,8,9,3,7,Malastare
+2024-02-06 16:33:57,698,at-st,resistance,7,10,10,2,Stewjon
+2024-02-06 16:33:56,699,stormtrooper,resistance,8,7,5,5,Iktotch
+2024-02-06 16:33:55,700,stormtrooper,empire,9,3,8,6,Stewjon
+2024-02-06 16:33:54,701,stormtrooper,resistance,8,3,2,1,Troiken
+2024-02-06 16:33:53,702,at-at,resistance,2,10,8,5,Glee Anselm
+2024-02-06 16:33:52,703,stormtrooper,empire,6,8,9,7,Iridonia
+2024-02-06 16:33:51,704,unknown,empire,9,1,8,1,Quermia
+2024-02-06 16:33:50,705,stormtrooper,resistance,10,1,10,2,Kalee
+2024-02-06 16:33:49,706,at-st,empire,7,2,3,4,Skako
+2024-02-06 16:33:48,707,at-at,resistance,9,8,10,1,Socorro
+2024-02-06 16:33:47,708,at-at,resistance,5,9,4,2,Vulpter
+2024-02-06 16:33:46,709,x-wing,empire,10,1,9,6,Bestine IV
+2024-02-06 16:33:45,710,unknown,resistance,7,3,3,2,Glee Anselm
+2024-02-06 16:33:44,711,at-at,resistance,4,8,6,3,Iridonia
+2024-02-06 16:33:43,712,resistance_soldier,resistance,9,10,4,1,Aleen Minor
+2024-02-06 16:33:42,713,at-at,resistance,5,5,1,1,Umbara
+2024-02-06 16:33:41,714,unknown,resistance,1,8,10,1,Haruun Kal
+2024-02-06 16:33:40,715,at-at,resistance,1,10,4,2,Chandrila
+2024-02-06 16:33:39,716,tie_silencer,resistance,3,5,4,6,Kalee
+2024-02-06 16:33:38,717,stormtrooper,resistance,9,5,3,10,Ojom
+2024-02-06 16:33:37,718,x-wing,resistance,3,6,2,7,Haruun Kal
+2024-02-06 16:33:36,719,x-wing,resistance,3,5,6,8,Dorin
+2024-02-06 16:33:35,720,unknown,empire,8,7,4,3,Quermia
+2024-02-06 16:33:34,721,unknown,resistance,1,4,7,1,Socorro
+2024-02-06 16:33:33,722,stormtrooper,empire,5,2,4,6,Kalee
+2024-02-06 16:33:32,723,tie_fighter,resistance,6,9,2,6,Shili
+2024-02-06 16:33:31,724,at-st,resistance,10,2,1,9,Cerea
+2024-02-06 16:33:30,725,unknown,resistance,10,8,5,7,Glee Anselm
+2024-02-06 16:33:29,726,at-at,empire,5,4,10,9,Bestine IV
+2024-02-06 16:33:28,727,resistance_soldier,empire,2,4,2,3,Stewjon
+2024-02-06 16:33:27,728,at-st,resistance,10,5,8,10,Eriadu
+2024-02-06 16:33:26,729,stormtrooper,empire,1,6,10,7,Dathomir
+2024-02-06 16:33:25,730,tie_fighter,empire,5,6,7,10,Kalee
+2024-02-06 16:33:24,731,tie_silencer,empire,10,3,8,6,Zolan
+2024-02-06 16:33:23,732,x-wing,resistance,8,3,4,3,Haruun Kal
+2024-02-06 16:33:22,733,stormtrooper,empire,8,9,4,5,Dagobah
+2024-02-06 16:33:21,734,tie_silencer,empire,3,3,1,3,Tund
+2024-02-06 16:33:20,735,x-wing,resistance,8,5,10,9,Troiken
+2024-02-06 16:33:19,736,x-wing,empire,6,3,6,7,Eriadu
+2024-02-06 16:33:18,737,at-st,empire,2,7,4,5,Eriadu
+2024-02-06 16:33:17,738,unknown,empire,9,3,9,10,Glee Anselm
+2024-02-06 16:33:16,739,tie_silencer,resistance,2,7,2,8,Mon Cala
+2024-02-06 16:33:15,740,x-wing,empire,2,8,10,5,Eriadu
+2024-02-06 16:33:14,741,tie_fighter,empire,6,4,5,2,Dorin
+2024-02-06 16:33:13,742,at-at,resistance,5,4,8,7,Glee Anselm
+2024-02-06 16:33:12,743,unknown,empire,6,2,1,3,Tatooine
+2024-02-06 16:33:11,744,unknown,empire,6,3,1,3,Tund
+2024-02-06 16:33:10,745,x-wing,empire,5,2,7,2,Tholoth
+2024-02-06 16:33:09,746,unknown,resistance,1,5,9,6,Ryloth
+2024-02-06 16:33:08,747,resistance_soldier,resistance,8,4,5,2,Dathomir
+2024-02-06 16:33:07,748,at-st,empire,2,6,2,4,Haruun Kal
+2024-02-06 16:33:06,749,at-at,resistance,8,7,9,4,Kashyyyk
+2024-02-06 16:33:05,750,unknown,resistance,2,5,7,9,Socorro
+2024-02-06 16:33:04,751,resistance_soldier,empire,1,4,8,1,Aleen Minor
+2024-02-06 16:33:03,752,tie_silencer,empire,10,6,7,1,Corellia
+2024-02-06 16:33:02,753,tie_fighter,resistance,7,1,7,10,Haruun Kal
+2024-02-06 16:33:01,754,at-at,resistance,8,1,7,7,Umbara
+2024-02-06 16:33:00,755,stormtrooper,empire,9,8,3,7,Aleen Minor
+2024-02-06 16:32:59,756,stormtrooper,empire,6,9,2,7,Zolan
+2024-02-06 16:32:58,757,tie_fighter,empire,1,3,6,6,Rodia
+2024-02-06 16:32:57,758,x-wing,resistance,9,8,10,10,Glee Anselm
+2024-02-06 16:32:56,759,resistance_soldier,empire,4,3,3,8,Corellia
+2024-02-06 16:32:55,760,stormtrooper,resistance,2,7,9,10,Tatooine
+2024-02-06 16:32:54,761,resistance_soldier,resistance,3,1,3,8,Zolan
+2024-02-06 16:32:53,762,resistance_soldier,empire,10,8,7,10,Trandosha
+2024-02-06 16:32:52,763,at-st,resistance,5,2,4,10,Kashyyyk
+2024-02-06 16:32:51,764,at-st,empire,7,6,8,5,Dathomir
+2024-02-06 16:32:50,765,resistance_soldier,empire,9,5,6,3,Toydaria
+2024-02-06 16:32:49,766,stormtrooper,resistance,7,3,9,3,Trandosha
+2024-02-06 16:32:48,767,resistance_soldier,resistance,8,3,10,6,Dagobah
+2024-02-06 16:32:47,768,x-wing,empire,10,2,8,7,Zolan
+2024-02-06 16:32:46,769,unknown,empire,10,3,10,1,Skako
+2024-02-06 16:32:45,770,stormtrooper,empire,4,7,9,4,Dagobah
+2024-02-06 16:32:44,771,tie_fighter,resistance,2,3,8,9,Alderaan
+2024-02-06 16:32:43,772,unknown,empire,6,1,1,2,Tund
+2024-02-06 16:32:42,773,unknown,resistance,9,9,7,3,Sullust
+2024-02-06 16:32:41,774,tie_silencer,empire,10,10,7,5,Umbara
+2024-02-06 16:32:40,775,at-st,empire,1,6,2,1,Skako
+2024-02-06 16:32:39,776,tie_silencer,empire,6,3,5,2,Concord Dawn
+2024-02-06 16:32:38,777,unknown,resistance,10,1,7,10,Rodia
+2024-02-06 16:32:37,778,tie_silencer,empire,6,10,8,5,Serenno
+2024-02-06 16:32:36,779,tie_fighter,resistance,6,3,1,6,Iridonia
+2024-02-06 16:32:35,780,at-st,empire,9,4,6,4,Trandosha
+2024-02-06 16:32:34,781,tie_silencer,empire,4,1,1,10,Bestine IV
+2024-02-06 16:32:33,782,x-wing,resistance,4,8,7,5,Ojom
+2024-02-06 16:32:32,783,at-st,resistance,4,2,6,2,Zolan
+2024-02-06 16:32:31,784,tie_silencer,resistance,4,8,9,7,Dathomir
+2024-02-06 16:32:30,785,tie_silencer,resistance,5,3,10,8,Mirial
+2024-02-06 16:32:29,786,stormtrooper,resistance,1,10,8,7,Iktotch
+2024-02-06 16:32:28,787,at-at,resistance,3,1,1,3,Trandosha
+2024-02-06 16:32:27,788,tie_fighter,empire,7,1,4,2,Tund
+2024-02-06 16:32:26,789,tie_fighter,resistance,7,8,2,6,Iridonia
+2024-02-06 16:32:25,790,at-st,resistance,10,7,2,1,Kalee
+2024-02-06 16:32:24,791,tie_silencer,resistance,7,3,3,8,Socorro
+2024-02-06 16:32:23,792,tie_fighter,empire,1,8,3,1,Muunilinst
+2024-02-06 16:32:22,793,tie_fighter,empire,1,10,7,5,Skako
+2024-02-06 16:32:21,794,at-at,resistance,8,9,1,3,Mon Cala
+2024-02-06 16:32:20,795,unknown,empire,10,9,2,6,Eriadu
+2024-02-06 16:32:19,796,at-st,resistance,9,5,1,10,Ryloth
+2024-02-06 16:32:18,797,x-wing,resistance,2,10,7,9,Mon Cala
+2024-02-06 16:32:17,798,resistance_soldier,resistance,1,10,7,9,Tund
+2024-02-06 16:32:16,799,at-at,empire,5,8,1,3,Dagobah
+2024-02-06 16:32:15,800,resistance_soldier,empire,3,8,4,9,Champala
+2024-02-06 16:32:14,801,at-at,resistance,8,5,6,3,Mirial
+2024-02-06 16:32:13,802,resistance_soldier,resistance,8,7,3,4,Alderaan
+2024-02-06 16:32:12,803,at-st,resistance,6,2,6,7,Champala
+2024-02-06 16:32:11,804,resistance_soldier,resistance,8,8,4,3,Bestine IV
+2024-02-06 16:32:10,805,at-at,resistance,1,3,3,7,Glee Anselm
+2024-02-06 16:32:09,806,tie_silencer,resistance,9,5,2,6,Tatooine
+2024-02-06 16:32:08,807,at-st,empire,7,5,6,3,Muunilinst
+2024-02-06 16:32:07,808,unknown,empire,10,10,6,5,Concord Dawn
+2024-02-06 16:32:06,809,tie_silencer,empire,8,6,6,1,Serenno
+2024-02-06 16:32:05,810,tie_silencer,resistance,7,6,9,5,Tatooine
+2024-02-06 16:32:04,811,stormtrooper,empire,1,9,5,10,Vulpter
+2024-02-06 16:32:03,812,at-st,empire,2,9,4,7,Naboo
+2024-02-06 16:32:02,813,tie_silencer,resistance,6,8,9,10,Cerea
+2024-02-06 16:32:01,814,at-at,resistance,10,2,10,5,Mon Cala
+2024-02-06 16:32:00,815,x-wing,empire,1,1,3,2,Cerea
+2024-02-06 16:31:59,816,at-st,empire,5,3,8,3,Toydaria
+2024-02-06 16:31:58,817,at-st,resistance,6,10,9,6,Dorin
+2024-02-06 16:31:57,818,tie_fighter,empire,8,4,6,4,Eriadu
+2024-02-06 16:31:56,819,tie_silencer,empire,7,6,4,1,Vulpter
+2024-02-06 16:31:55,820,unknown,resistance,7,7,9,2,Naboo
+2024-02-06 16:31:54,821,at-st,resistance,7,6,10,5,Chandrila
+2024-02-06 16:31:53,822,resistance_soldier,empire,7,2,3,4,Serenno
+2024-02-06 16:31:52,823,tie_fighter,resistance,1,2,5,2,Malastare
+2024-02-06 16:31:51,824,at-st,empire,4,10,7,9,Rodia
+2024-02-06 16:31:50,825,unknown,empire,1,9,1,2,Vulpter
+2024-02-06 16:31:49,826,at-st,empire,7,9,1,3,Stewjon
+2024-02-06 16:31:48,827,tie_silencer,empire,10,10,10,1,Cerea
+2024-02-06 16:31:47,828,tie_silencer,empire,2,2,4,2,Serenno
+2024-02-06 16:31:46,829,at-st,resistance,1,5,2,4,Dathomir
+2024-02-06 16:31:45,830,tie_fighter,empire,3,10,2,8,Trandosha
+2024-02-06 16:31:44,831,at-st,empire,8,5,10,8,Muunilinst
+2024-02-06 16:31:43,832,tie_fighter,empire,9,1,7,3,Serenno
+2024-02-06 16:31:42,833,tie_silencer,empire,4,7,3,6,Umbara
+2024-02-06 16:31:41,834,x-wing,empire,4,1,6,2,Shili
+2024-02-06 16:31:40,835,at-at,resistance,10,3,3,1,Shili
+2024-02-06 16:31:39,836,resistance_soldier,empire,10,9,10,7,Zolan
+2024-02-06 16:31:38,837,stormtrooper,empire,4,10,5,1,Serenno
+2024-02-06 16:31:37,838,stormtrooper,resistance,8,8,4,10,Glee Anselm
+2024-02-06 16:31:36,839,tie_fighter,empire,9,5,6,4,Dorin
+2024-02-06 16:31:35,840,at-at,resistance,9,10,8,1,Vulpter
+2024-02-06 16:31:34,841,at-st,empire,8,6,9,9,Eriadu
+2024-02-06 16:31:33,842,stormtrooper,resistance,9,7,3,4,Alderaan
+2024-02-06 16:31:32,843,tie_silencer,resistance,6,6,6,1,Iktotch
+2024-02-06 16:31:31,844,x-wing,resistance,4,4,7,2,Glee Anselm
+2024-02-06 16:31:30,845,at-st,resistance,3,9,9,8,Socorro
+2024-02-06 16:31:29,846,stormtrooper,resistance,3,4,5,8,Sullust
+2024-02-06 16:31:28,847,resistance_soldier,resistance,9,10,9,9,Sullust
+2024-02-06 16:31:27,848,resistance_soldier,resistance,6,7,10,9,Troiken
+2024-02-06 16:31:26,849,at-st,resistance,1,6,10,1,Mon Cala
+2024-02-06 16:31:25,850,stormtrooper,resistance,1,6,8,2,Sullust
+2024-02-06 16:31:24,851,resistance_soldier,empire,8,1,10,6,Stewjon
+2024-02-06 16:31:23,852,resistance_soldier,resistance,7,7,8,2,Chandrila
+2024-02-06 16:31:22,853,unknown,empire,8,3,10,10,Ojom
+2024-02-06 16:31:21,854,at-st,resistance,2,5,6,4,Kashyyyk
+2024-02-06 16:31:20,855,unknown,empire,1,6,5,7,Serenno
+2024-02-06 16:31:19,856,at-at,empire,8,6,4,8,Tatooine
+2024-02-06 16:31:18,857,at-at,resistance,5,8,9,10,Toydaria
+2024-02-06 16:31:17,858,at-st,resistance,7,7,4,5,Glee Anselm
+2024-02-06 16:31:16,859,x-wing,resistance,7,6,8,3,Eriadu
+2024-02-06 16:31:15,860,at-at,empire,4,10,10,7,Champala
+2024-02-06 16:31:14,861,resistance_soldier,resistance,7,3,6,8,Troiken
+2024-02-06 16:31:13,862,stormtrooper,resistance,4,2,8,7,Tholoth
+2024-02-06 16:31:12,863,unknown,empire,10,5,5,3,Malastare
+2024-02-06 16:31:11,864,stormtrooper,empire,8,3,2,10,Dathomir
+2024-02-06 16:31:10,865,tie_silencer,resistance,8,5,10,6,Glee Anselm
+2024-02-06 16:31:09,866,x-wing,empire,5,4,2,2,Tholoth
+2024-02-06 16:31:08,867,at-at,empire,9,3,8,4,Tund
+2024-02-06 16:31:07,868,unknown,resistance,2,9,3,2,Mirial
+2024-02-06 16:31:06,869,x-wing,empire,6,5,2,3,Stewjon
+2024-02-06 16:31:05,870,resistance_soldier,empire,8,6,3,8,Iktotch
+2024-02-06 16:31:04,871,tie_silencer,empire,2,2,8,10,Kalee
+2024-02-06 16:31:03,872,stormtrooper,resistance,2,9,3,5,Mon Cala
+2024-02-06 16:31:02,873,unknown,resistance,9,10,3,5,Umbara
+2024-02-06 16:31:01,874,at-st,resistance,10,4,6,3,Alderaan
+2024-02-06 16:31:00,875,unknown,empire,9,1,6,9,Malastare
+2024-02-06 16:30:59,876,resistance_soldier,resistance,4,10,3,10,Ryloth
+2024-02-06 16:30:58,877,stormtrooper,resistance,5,6,7,8,Alderaan
+2024-02-06 16:30:57,878,x-wing,empire,2,10,6,9,Ojom
+2024-02-06 16:30:56,879,x-wing,empire,3,2,1,4,Cerea
+2024-02-06 16:30:55,880,unknown,empire,7,10,6,5,Toydaria
+2024-02-06 16:30:54,881,at-at,resistance,7,4,3,7,Kalee
+2024-02-06 16:30:53,882,x-wing,resistance,9,6,5,8,Dathomir
+2024-02-06 16:30:52,883,at-st,resistance,1,8,6,6,Rodia
+2024-02-06 16:30:51,884,unknown,resistance,9,10,3,1,Trandosha
+2024-02-06 16:30:50,885,tie_silencer,resistance,10,7,3,9,Bestine IV
+2024-02-06 16:30:49,886,stormtrooper,resistance,8,2,3,9,Glee Anselm
+2024-02-06 16:30:48,887,at-st,empire,3,3,5,1,Tund
+2024-02-06 16:30:47,888,tie_fighter,empire,9,2,9,7,Toydaria
+2024-02-06 16:30:46,889,tie_silencer,resistance,7,10,4,8,Concord Dawn
+2024-02-06 16:30:45,890,resistance_soldier,empire,8,8,8,10,Malastare
+2024-02-06 16:30:44,891,tie_silencer,resistance,1,6,6,4,Chandrila
+2024-02-06 16:30:43,892,tie_silencer,resistance,1,3,9,9,Ojom
+2024-02-06 16:30:42,893,resistance_soldier,empire,7,4,3,4,Aleen Minor
+2024-02-06 16:30:41,894,unknown,resistance,2,8,10,7,Troiken
+2024-02-06 16:30:40,895,at-st,empire,5,3,1,6,Glee Anselm
+2024-02-06 16:30:39,896,tie_fighter,empire,10,7,2,10,Kalee
+2024-02-06 16:30:38,897,tie_fighter,resistance,2,8,3,9,Tatooine
+2024-02-06 16:30:37,898,tie_fighter,empire,2,5,10,1,Ryloth
+2024-02-06 16:30:36,899,at-st,resistance,8,1,4,8,Serenno
+2024-02-06 16:30:35,900,tie_fighter,resistance,5,8,9,8,Cerea
+2024-02-06 16:30:34,901,resistance_soldier,empire,10,4,2,3,Dorin
+2024-02-06 16:30:33,902,resistance_soldier,resistance,4,3,2,8,Zolan
+2024-02-06 16:30:32,903,tie_fighter,resistance,10,6,1,6,Glee Anselm
+2024-02-06 16:30:31,904,tie_silencer,empire,1,6,2,1,Muunilinst
+2024-02-06 16:30:30,905,at-st,empire,3,6,10,1,Eriadu
+2024-02-06 16:30:29,906,unknown,empire,8,4,7,2,Rodia
+2024-02-06 16:30:28,907,tie_fighter,resistance,2,2,5,6,Stewjon
+2024-02-06 16:30:27,908,x-wing,empire,4,8,9,7,Dathomir
+2024-02-06 16:30:26,909,unknown,empire,7,1,8,10,Iridonia
+2024-02-06 16:30:25,910,stormtrooper,empire,8,5,7,9,Aleen Minor
+2024-02-06 16:30:24,911,at-at,resistance,5,9,2,9,Dathomir
+2024-02-06 16:30:23,912,x-wing,resistance,9,3,9,10,Cerea
+2024-02-06 16:30:22,913,stormtrooper,empire,8,8,10,3,Skako
+2024-02-06 16:30:21,914,unknown,empire,7,1,2,3,Umbara
+2024-02-06 16:30:20,915,at-at,empire,2,2,1,5,Iridonia
+2024-02-06 16:30:19,916,stormtrooper,resistance,5,4,6,7,Dathomir
+2024-02-06 16:30:18,917,tie_silencer,resistance,4,2,7,9,Shili
+2024-02-06 16:30:17,918,at-st,empire,10,10,2,1,Kashyyyk
+2024-02-06 16:30:16,919,stormtrooper,resistance,5,10,2,6,Iktotch
+2024-02-06 16:30:15,920,unknown,resistance,3,1,4,5,Ryloth
+2024-02-06 16:30:14,921,unknown,resistance,3,4,9,3,Rodia
+2024-02-06 16:30:13,922,resistance_soldier,empire,3,3,7,3,Glee Anselm
+2024-02-06 16:30:12,923,x-wing,resistance,2,8,8,5,Champala
+2024-02-06 16:30:11,924,tie_fighter,empire,4,7,8,1,Umbara
+2024-02-06 16:30:10,925,at-st,empire,9,6,10,2,Malastare
+2024-02-06 16:30:09,926,unknown,empire,4,3,4,6,Stewjon
+2024-02-06 16:30:08,927,resistance_soldier,empire,6,9,10,8,Corellia
+2024-02-06 16:30:07,928,x-wing,resistance,2,8,3,3,Glee Anselm
+2024-02-06 16:30:06,929,x-wing,empire,7,10,1,8,Ojom
+2024-02-06 16:30:05,930,tie_silencer,resistance,8,7,4,6,Alderaan
+2024-02-06 16:30:04,931,unknown,resistance,9,7,9,7,Cerea
+2024-02-06 16:30:03,932,tie_silencer,resistance,10,7,3,10,Iridonia
+2024-02-06 16:30:02,933,stormtrooper,resistance,9,4,8,2,Ryloth
+2024-02-06 16:30:01,934,tie_fighter,resistance,2,3,7,3,Tatooine
+2024-02-06 16:30:00,935,tie_fighter,resistance,9,9,5,4,Naboo
+2024-02-06 16:29:59,936,resistance_soldier,empire,5,10,8,7,Eriadu
+2024-02-06 16:29:58,937,resistance_soldier,empire,8,5,5,10,Concord Dawn
+2024-02-06 16:29:57,938,at-at,empire,8,7,9,3,Tholoth
+2024-02-06 16:29:56,939,at-st,empire,6,3,2,7,Champala
+2024-02-06 16:29:55,940,stormtrooper,empire,7,9,10,9,Dathomir
+2024-02-06 16:29:54,941,at-at,resistance,8,4,2,9,Sullust
+2024-02-06 16:29:53,942,at-st,empire,8,7,4,10,Mirial
+2024-02-06 16:29:52,943,at-st,resistance,4,9,7,6,Mirial
+2024-02-06 16:29:51,944,x-wing,resistance,9,9,6,8,Iridonia
+2024-02-06 16:29:50,945,resistance_soldier,resistance,4,1,1,1,Alderaan
+2024-02-06 16:29:49,946,at-st,empire,10,2,4,7,Stewjon
+2024-02-06 16:29:48,947,tie_fighter,empire,8,3,5,7,Corellia
+2024-02-06 16:29:47,948,resistance_soldier,empire,10,10,5,6,Zolan
+2024-02-06 16:29:46,949,at-st,resistance,10,1,10,1,Iktotch
+2024-02-06 16:29:45,950,at-at,resistance,4,7,6,7,Ryloth
+2024-02-06 16:29:44,951,tie_silencer,resistance,4,10,4,4,Concord Dawn
+2024-02-06 16:29:43,952,at-at,empire,9,8,3,1,Kalee
+2024-02-06 16:29:42,953,x-wing,resistance,2,6,1,7,Rodia
+2024-02-06 16:29:41,954,unknown,empire,6,10,5,4,Naboo
+2024-02-06 16:29:40,955,x-wing,resistance,10,6,6,9,Chandrila
+2024-02-06 16:29:39,956,tie_fighter,resistance,8,10,6,3,Chandrila
+2024-02-06 16:29:38,957,at-at,empire,3,2,3,9,Dorin
+2024-02-06 16:29:37,958,stormtrooper,empire,9,5,9,4,Tholoth
+2024-02-06 16:29:36,959,unknown,resistance,4,1,9,2,Cerea
+2024-02-06 16:29:35,960,at-st,empire,5,6,2,6,Quermia
+2024-02-06 16:29:34,961,stormtrooper,empire,9,6,7,8,Muunilinst
+2024-02-06 16:29:33,962,resistance_soldier,empire,1,8,1,4,Aleen Minor
+2024-02-06 16:29:32,963,tie_fighter,resistance,10,9,5,6,Ojom
+2024-02-06 16:29:31,964,tie_silencer,resistance,3,2,9,4,Dathomir
+2024-02-06 16:29:30,965,tie_silencer,empire,5,3,7,10,Tatooine
+2024-02-06 16:29:29,966,stormtrooper,empire,5,8,10,8,Tund
+2024-02-06 16:29:28,967,tie_silencer,empire,9,1,5,9,Dathomir
+2024-02-06 16:29:27,968,stormtrooper,resistance,8,8,1,6,Alderaan
+2024-02-06 16:29:26,969,unknown,empire,10,8,2,10,Serenno
+2024-02-06 16:29:25,970,unknown,empire,6,5,1,1,Dorin
+2024-02-06 16:29:24,971,tie_fighter,resistance,2,3,5,2,Umbara
+2024-02-06 16:29:23,972,unknown,empire,4,7,9,3,Quermia
+2024-02-06 16:29:22,973,x-wing,empire,6,10,3,8,Concord Dawn
+2024-02-06 16:29:21,974,unknown,empire,3,6,2,3,Dagobah
+2024-02-06 16:29:20,975,tie_silencer,empire,2,4,5,4,Muunilinst
+2024-02-06 16:29:19,976,tie_silencer,resistance,7,8,4,3,Sullust
+2024-02-06 16:29:18,977,tie_fighter,empire,8,3,5,10,Ojom
+2024-02-06 16:29:17,978,tie_silencer,empire,4,4,8,3,Dorin
+2024-02-06 16:29:16,979,resistance_soldier,empire,9,4,1,5,Eriadu
+2024-02-06 16:29:15,980,unknown,resistance,2,3,8,8,Cerea
+2024-02-06 16:29:14,981,tie_silencer,resistance,5,10,5,3,Socorro
+2024-02-06 16:29:13,982,x-wing,resistance,1,5,2,10,Troiken
+2024-02-06 16:29:12,983,at-at,empire,3,3,8,4,Muunilinst
+2024-02-06 16:29:11,984,tie_fighter,resistance,7,7,4,9,Mon Cala
+2024-02-06 16:29:10,985,tie_silencer,resistance,10,9,7,7,Umbara
+2024-02-06 16:29:09,986,tie_fighter,resistance,5,5,3,4,Iridonia
+2024-02-06 16:29:08,987,stormtrooper,resistance,4,5,4,10,Sullust
+2024-02-06 16:29:07,988,x-wing,resistance,9,6,8,4,Mirial
+2024-02-06 16:29:06,989,unknown,empire,10,8,7,8,Champala
+2024-02-06 16:29:05,990,tie_silencer,empire,10,9,8,10,Dorin
+2024-02-06 16:29:04,991,resistance_soldier,resistance,9,7,2,1,Bestine IV
+2024-02-06 16:29:03,992,at-at,empire,5,5,2,8,Vulpter
+2024-02-06 16:29:02,993,tie_fighter,empire,6,10,7,4,Troiken
+2024-02-06 16:29:01,994,at-at,resistance,6,2,3,10,Chandrila
+2024-02-06 16:29:00,995,resistance_soldier,resistance,1,10,4,10,Ojom
+2024-02-06 16:28:59,996,unknown,resistance,10,10,2,6,Shili
+2024-02-06 16:28:58,997,tie_silencer,resistance,9,10,9,9,Dorin
+2024-02-06 16:28:57,998,tie_fighter,empire,5,5,9,10,Chandrila
+2024-02-06 16:28:56,999,stormtrooper,empire,10,9,6,2,Skako
+2024-02-06 16:28:55,1000,stormtrooper,resistance,1,4,6,3,Champala
