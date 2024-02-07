@@ -1,2 +1,3 @@
 /.ipynb_checkpoints
 troop_movements10m.csv
+clean_data.parquet
