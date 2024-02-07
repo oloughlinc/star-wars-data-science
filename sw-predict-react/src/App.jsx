@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 import './App.css'
 
 function App() {
@@ -7,10 +8,35 @@ function App() {
   const [unitTypeOptions, setUnitTypeOptions] = useState([]);
   const [selectedHomeworld, setSelectedHomeworld] = useState('');
   const [selectedUnitType, setSelectedUnitType] = useState('');
+  const [alignment, setAlignment] = useState('');
 
   const handleSubmit = () => {
-    console.log('submit!');
+    axios.post('http://localhost:5000/api/predict', {
+      'homeworld': [selectedHomeworld],
+      'unit_type': [selectedUnitType]
+    })
+    .then(response => {
+      console.log(response.data);
+      setAlignment(response.data[0])});
   }
+
+  useEffect(() =>{
+    const getHomeworld = async() => {
+      let response = await axios('http://localhost:5000/api/homeworlds');
+      console.log(response.data);
+      setHomeworldOptions(response.data);
+    }
+    getHomeworld();
+  }, [])
+
+  useEffect(() =>{
+    const getUnits = async() => {
+      let response = await axios('http://localhost:5000/api/units');
+      console.log(response.data);
+      setUnitTypeOptions(response.data);
+    }
+    getUnits();
+  }, [])
 
   return (
     <>
@@ -33,6 +59,9 @@ function App() {
       </select>
       <br />
       <button onClick={handleSubmit}>Submit</button>
+      <div id={'alignment'}>
+        <h2>{alignment}</h2>
+      </div>
     </>
   );
 }
