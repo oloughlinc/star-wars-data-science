@@ -45,6 +45,20 @@ def getUnits():
 
 # thanks chatgpt
 def preprocess_data(planet, unit):
+
+    # def preprocess_data(planet, unit):
+    # # Create DataFrame with columns 'planet' and 'unit'
+    # df = pd.DataFrame({'planet': [planet], 'unit': [unit]})
+    
+    # # One-hot encode 'planet' and 'unit'
+    # planet_encoded = pd.get_dummies(df['planet'], columns=planets)
+    # unit_encoded = pd.get_dummies(df['unit'], columns=units)
+    
+    # # Concatenate encoded features
+    # features = pd.concat([planet_encoded, unit_encoded], axis=1)
+    
+    # return features
+
     # One-hot encode 'planet' and 'unit'
     planet_encoded = np.zeros(len(homeworlds))
     print(planet_encoded)
