@@ -1,32 +1,40 @@
+
+import React, { useState, useEffect } from 'react';
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [homeworldOptions, setHomeworldOptions] = useState([]);
+  const [unitTypeOptions, setUnitTypeOptions] = useState([]);
+  const [selectedHomeworld, setSelectedHomeworld] = useState('');
+  const [selectedUnitType, setSelectedUnitType] = useState('');
+
+  const handleSubmit = () => {
+    console.log('submit!');
+  }
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+    <h1>Star Wars Alignment Predict</h1>
+    <p style={{'marginBottom': '50px'}}>powered by SciKit Learn</p>
+      <label>Homeworld:</label>
+      <select value={selectedHomeworld} onChange={e => setSelectedHomeworld(e.target.value)}>
+        <option value="">Select Homeworld</option>
+        {homeworldOptions.map(option => (
+          <option key={option} value={option}>{option}</option>
+        ))}
+      </select>
+      <br />
+      <label>Unit Type:</label>
+      <select value={selectedUnitType} onChange={e => setSelectedUnitType(e.target.value)}>
+        <option value="">Select Unit Type</option>
+        {unitTypeOptions.map(option => (
+          <option key={option} value={option}>{option}</option>
+        ))}
+      </select>
+      <br />
+      <button onClick={handleSubmit}>Submit</button>
     </>
-  )
+  );
 }
 
 export default App
